@@ -1,2 +1,0 @@
-#single quotation
-print('hello')
